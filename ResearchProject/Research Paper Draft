@@ -1,0 +1,50 @@
+
+
+AI Approach to Determining the Optimal Materials for an EV Battery Based on Suitable Properties
+Omar A. (student)1 *, Faisal Nawab (mentor)2
+1. Leigh High School, 5210 Leigh Ave, San Jose, CA 95124, USA
+* Corresponding author email: omar.ehab.us@gmail.com
+
+
+Abstract
+Electric vehicles are becoming increasingly widespread as they offer an environmentally sustainable solution to
+limit reliance on gasoline-dependent vehicles. A significant issue limiting wide-spread EV use are the limitations
+of current batteries. While battery technology has come a long way, many issues arise with EVs, such as higher costs,
+ shorter range, reusability, and lifespan. Different materials have their strengths and weaknesses with regards to
+ different metrics and no material has the best properties for each metric. This paper uses a ML model to predict
+ battery performance based on material properties then concludes the necessary trade-offs between properties and
+ how to find the best battery materials that balance between each.
+
+
+The rise of EVs have given the world an alternative to gasoline-powered vehicles. However, while battery technology has
+advanced drastically, it still currently prevents wider adoption of EVs over gasoline- powered cars due to EVs having
+ less range, shorter lifespans, and higher costs. EV batteries contribute a lot to this with less energy density
+ compared to gasoline, higher price, and degradation over time. In the field of chemistry, no single material has
+ all the optimal properties, and EV battery chemistry is no different. Different materials provide varying levels of
+  energy density, lifespan, and cost. For example, having higher voltage results in higher energy density, but at the
+   same time accelerates degradation. This implies that the ideal battery with the best properties for all metrics is
+   impossible and that trade-offs are necessary since the same property that has a favorable metric can be unfavorable
+    for another.
+Over the years, advancements in AI have greatly impacted the field of chemistry and material science. ML models are now
+capable of analyzing enormous amounts of data both accurately and efficiently. This helps cut time and expenses that
+would have impeded research efforts. These models can now be used to predict a material’s properties based on its design
+and choice of materials. It is now used in applications such as battery research to find which battery materials form
+the most optimal batteries without time-consuming and expensive trial and error methods. Now, AI is capable of helping
+ researchers discover better materials that can produce more optimal batteries that can improve EVs. Batteries help in
+  contributing to this by using materials that have higher energy densities, slower degradation, and lower costs.
+Since materials compromise on their properties, researchers and manufacturers are forced to prioritize certain properties
+ and metrics over others. The best materials for a battery vary depending on the application - some prioritize energy
+ density, while others prioritize lifespan or cost. For EV applications, all of these metrics are important, but a
+ manufacturer would still have to figure out which material can perform the best based on the requirements and
+ priorities. AI models can predict these metrics by testing hundreds of thousands of possible material combinations and
+ determine performance based on the battery’s properties. After determining the battery’s performance metrics, the model
+  can apply it to EV applications to determine how the battery will contribute to the EV performance.
+  This paper analyzes the details and nuances of how different materials’ properties improve in certain metrics while
+  hurting others.
+The paper will start by analyzing how battery metrics influence EV performance. The paper will then determine which
+battery properties are the most important for each metric and how materials influence the overall properties.
+ After that, ML models will be explained to demonstrate how they are used to determine the battery’s overall properties
+  based on the materials chosen. Based on the data and inferences collected, the study will go over the nuances and
+  conflicts between maximizing cost, energy density, and life expectancy for the battery.
+
+
